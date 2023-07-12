@@ -1,0 +1,27 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Destinations"
+  url: "/destinations/"
+  side: left
+  dropdown:
+  - title: "Aulani"
+    url: "/destinations/aulani/"
+  - title: "Disney Cruise Line"
+    url: "/destinations/disney-cruise-line/"
+  - title: "Disneyland"
+    url: "/destinations/disneyland"
+  - title: "Adventures by Disney"
+    url: "/destinations/adventures-by-disney/"
+  - title: "Walt Disney World"
+    url: "/destinations/walt-disney-world/"
+
+
+- title: "About Me"
+  url: "/about/"
+  side: right
+
+- title: "Reviews"
+  url: "/reviews/"
+  side: right
