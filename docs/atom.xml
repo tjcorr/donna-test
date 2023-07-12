@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/donna-test/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/donna-test/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://tjcorr.github.io/donna-test/</id>
+	<title>Travel with Donna</title>
+	<updated>2023-07-11T21:17:18-05:00</updated>
+
+	<subtitle></subtitle>
+
+	
+		
+		<author>
+			
+				<name>Donna</name>
+			
+			
+				<email>donna.degiacomo@gmail.com</email>
+			
+			
+				<uri>https://travelwithdonna.com</uri>
+			
+		</author>
+	
+
+	<link href="https://tjcorr.github.io/donna-test/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://tjcorr.github.io/donna-test/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
+
+	
+</feed>
