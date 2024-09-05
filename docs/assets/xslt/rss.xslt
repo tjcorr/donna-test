@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://tjcorr.github.io/donna-test/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/donna-test/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://tjcorr.github.io/donna-test/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/donna-test/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -37,13 +37,13 @@
 	
 	
 	
-	<link rel="canonical" href="https://tjcorr.github.io/donna-test/assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000/donna-test/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="">
-	<meta property="og:url" content="https://tjcorr.github.io/donna-test/assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000/donna-test/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Travel with Donna">
@@ -61,34 +61,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="https://tjcorr.github.io/donna-test/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/donna-test/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://tjcorr.github.io/donna-test/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/donna-test/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://tjcorr.github.io/donna-test/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/donna-test/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://tjcorr.github.io/donna-test/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/donna-test/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://tjcorr.github.io/donna-test/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/donna-test/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://tjcorr.github.io/donna-test/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/donna-test/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://tjcorr.github.io/donna-test/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/donna-test/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://tjcorr.github.io/donna-test/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/donna-test/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://tjcorr.github.io/donna-test/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/donna-test/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://tjcorr.github.io/donna-test/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/donna-test/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://tjcorr.github.io/donna-test/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/donna-test/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://tjcorr.github.io/donna-test/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/donna-test/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -107,7 +107,7 @@
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
     <ul class="title-area">
       <li class="name">
-      <h1 class="hide-for-large-up"><a href="https://tjcorr.github.io/donna-test" class="icon-tree"> Travel with Donna</a></h1>
+      <h1 class="hide-for-large-up"><a href="http://localhost:4000/donna-test" class="icon-tree"> Travel with Donna</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>Nav</span></a></li>
@@ -124,7 +124,7 @@
 
             
             
-              <li><a  href="https://tjcorr.github.io/donna-test/">Home</a></li>
+              <li><a  href="http://localhost:4000/donna-test/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -141,34 +141,34 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://tjcorr.github.io/donna-test/destinations/">Destinations</a>
+                <a  href="http://localhost:4000/donna-test/destinations/">Destinations</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://tjcorr.github.io/donna-test/destinations/aulani/">Aulani</a></li>
+                      <li><a  href="http://localhost:4000/donna-test/destinations/aulani/">Aulani</a></li>
                     
 
                       
 
-                      <li><a  href="https://tjcorr.github.io/donna-test/destinations/disney-cruise-line/">Disney Cruise Line</a></li>
+                      <li><a  href="http://localhost:4000/donna-test/destinations/disney-cruise-line/">Disney Cruise Line</a></li>
                     
 
                       
 
-                      <li><a  href="https://tjcorr.github.io/donna-test/destinations/disneyland">Disneyland</a></li>
+                      <li><a  href="http://localhost:4000/donna-test/destinations/disneyland">Disneyland</a></li>
                     
 
                       
 
-                      <li><a  href="https://tjcorr.github.io/donna-test/destinations/adventures-by-disney/">Adventures by Disney</a></li>
+                      <li><a  href="http://localhost:4000/donna-test/destinations/adventures-by-disney/">Adventures by Disney</a></li>
                     
 
                       
 
-                      <li><a  href="https://tjcorr.github.io/donna-test/destinations/walt-disney-world/">Walt Disney World</a></li>
+                      <li><a  href="http://localhost:4000/donna-test/destinations/walt-disney-world/">Walt Disney World</a></li>
                     
                   </ul>
 
@@ -222,7 +222,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://tjcorr.github.io/donna-test/about/">About Me</a></li>
+              <li><a  href="http://localhost:4000/donna-test/about/">About Me</a></li>
 
             
             
@@ -238,7 +238,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://tjcorr.github.io/donna-test/reviews/">Reviews</a></li>
+              <li><a  href="http://localhost:4000/donna-test/reviews/">Reviews</a></li>
 
             
             
@@ -256,8 +256,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://tjcorr.github.io/donna-test/" title="Travel with Donna – Travel with Donna">
-				<img src="https://tjcorr.github.io/donna-test/assets/img/logo.png" alt="Travel with Donna – Travel with Donna">
+			<a id="logo" href="http://localhost:4000/donna-test/" title="Travel with Donna – Travel with Donna">
+				<img src="http://localhost:4000/donna-test/assets/img/logo.png" alt="Travel with Donna – Travel with Donna">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -335,7 +335,7 @@
 
             <p class="shadow-black">
               
-              <a href="https://tjcorr.github.io/donna-test/info/">More ›</a>
+              <a href="http://localhost:4000/donna-test/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -387,7 +387,7 @@
 		
 
 
-<script src="https://tjcorr.github.io/donna-test/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/donna-test/assets/js/javascript.min.js"></script>
 
 
 
