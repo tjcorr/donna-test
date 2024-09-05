@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:4000/donna-test/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://localhost:4000/donna-test/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="https://tjcorr.github.io/donna-test/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://tjcorr.github.io/donna-test/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Travel with Donna</title>
 		<description></description>
-		<link>http://localhost:4000/donna-test/</link>
-		<atom:link href="http://localhost:4000/donna-test/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://tjcorr.github.io/donna-test/</link>
+		<atom:link href="https://tjcorr.github.io/donna-test/feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>

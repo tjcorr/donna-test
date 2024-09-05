@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/donna-test/404.html</loc>
+	<loc>https://tjcorr.github.io/donna-test/404.html</loc>
 	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/donna-test/about/</loc>
-	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,9 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/donna-test/destinations/adventures-by-disney/</loc>
+	<loc>https://tjcorr.github.io/donna-test/about/</loc>
 	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -50,9 +35,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/donna-test/blog/archive/</loc>
+	<loc>https://tjcorr.github.io/donna-test/destinations/adventures-by-disney/</loc>
 	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -64,12 +49,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>http://localhost:4000/donna-test/atom.xml</loc>
+	<loc>https://tjcorr.github.io/donna-test/blog/archive/</loc>
 	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -84,148 +67,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/donna-test/destinations/aulani/</loc>
+	<loc>https://tjcorr.github.io/donna-test/atom.xml</loc>
 	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/donna-test/destinations/disney-cruise-line/</loc>
-	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/donna-test/destinations/disneyland/</loc>
-	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/donna-test/feed.xml</loc>
-	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/donna-test/humans.txt</loc>
-	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/donna-test/blog/</loc>
-	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/donna-test/</loc>
-	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/donna-test/reviews/</loc>
-	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/donna-test/robots.txt</loc>
-	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/donna-test/sitemap.xml</loc>
-	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -240,9 +84,165 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/donna-test/destinations/walt-disney-world/</loc>
+	<loc>https://tjcorr.github.io/donna-test/destinations/aulani/</loc>
 	
-		<lastmod>2024-09-05T16:10:16+00:00</lastmod>
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://tjcorr.github.io/donna-test/destinations/disney-cruise-line/</loc>
+	
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://tjcorr.github.io/donna-test/destinations/disneyland/</loc>
+	
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://tjcorr.github.io/donna-test/feed.xml</loc>
+	
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://tjcorr.github.io/donna-test/humans.txt</loc>
+	
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://tjcorr.github.io/donna-test/blog/</loc>
+	
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://tjcorr.github.io/donna-test/</loc>
+	
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://tjcorr.github.io/donna-test/reviews/</loc>
+	
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://tjcorr.github.io/donna-test/robots.txt</loc>
+	
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://tjcorr.github.io/donna-test/sitemap.xml</loc>
+	
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://tjcorr.github.io/donna-test/destinations/walt-disney-world/</loc>
+	
+		<lastmod>2024-09-05T16:15:17+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

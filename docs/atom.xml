@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/donna-test/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/donna-test/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/donna-test/</id>
+	<id>https://tjcorr.github.io/donna-test/</id>
 	<title>Travel with Donna</title>
-	<updated>2024-09-05T16:10:16+00:00</updated>
+	<updated>2024-09-05T16:15:17+00:00</updated>
 
 	<subtitle></subtitle>
 
@@ -23,8 +23,8 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/donna-test/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/donna-test/" rel="alternate" type="text/html" />
+	<link href="https://tjcorr.github.io/donna-test/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://tjcorr.github.io/donna-test/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="4.3.3">Jekyll</generator>
 
